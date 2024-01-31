@@ -1,3 +1,3 @@
-const name = ["McKay", "Brent", "Max"]
+const teamName = ["McKay", "Brent", "Max", "Alberto"]
 
-console.log(`Hello ${name}`);
+console.log(`Hello ${teamName}`);

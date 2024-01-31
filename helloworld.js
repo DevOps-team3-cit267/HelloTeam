@@ -1,3 +1,3 @@
-const name = ["McKay", "Brent"]
+const name = ["McKay", "Brent", "Max"]
 
 console.log(`Hello ${name}`);

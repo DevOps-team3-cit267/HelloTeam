@@ -5,13 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "hello": "node helloworld.js"
+    "hello": "node helloTeam.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mckayythomas/NodeJSExample.git"
   },
-  "author": "McKay Thomas, Brent Rothlisberger",
+  "author": "McKay Thomas, Brent Rothlisberger, Max Imo, Alberto Gomez",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mckayythomas/NodeJSExample/issues"

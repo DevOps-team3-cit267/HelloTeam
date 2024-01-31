@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/mckayythomas/NodeJSExample.git"
   },
-  "author": "McKay Thomas",
+  "author": "McKay Thomas, Brent Rothlisberger",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mckayythomas/NodeJSExample/issues"
